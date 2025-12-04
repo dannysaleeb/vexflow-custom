@@ -281,6 +281,18 @@ module.exports = {
   vexNoteHeadRectBlack: 'vd4',
   vexNoteHeadRectWhite: 'vd5',
 
+  // gould arrow quartertone accidentals (24-edo) (e270-e27f)
+  accidentalQuarterToneFlatArrowUp: null,
+  accidentalThreeQuarterTonesFlatArrowDown: null,
+  accidentalQuarterToneSharpNaturalArrowUp: null,
+  accidentalQuarterToneFlatNaturalArrowDown: null,
+  accidentalThreeQuarterTonesSharpArrowUp: null,
+  accidentalQuarterToneSharpArrowDown: null,
+  accidentalFiveQuarterTonesSharpArrowUp: null,
+  accidentalThreeQuarterTonesSharpArrowDown: null,
+  accidentalThreeQuarterTonesFlatArrowUp: null,
+  accidentalFiveQuarterTonesFlatArrowDown: null,
+
   // Spartan Sagittal single-shaft accidentals (U+E300–U+E30F)
   accSagittal5v7KleismaUp: null,
   accSagittal5v7KleismaDown: null,

@@ -430,6 +430,16 @@ const accidentals: Record<string, { code: string; parenRightPaddingAdjustment: n
   },
   accidentalWilsonPlus: { code: 'accidentalWilsonPlus', parenRightPaddingAdjustment: -1 },
   accidentalWilsonMinus: { code: 'accidentalWilsonMinus', parenRightPaddingAdjustment: -1 },
+  accidentalSharpArrowUp: { code: "accidentalThreeQuarterTonesSharpArrowUp", parenRightPaddingAdjustment: -1 },
+  accidentalSharpArrowDown: { code: "accidentalQuarterToneSharpArrowDown", parenRightPaddingAdjustment: -1 },
+  accidentalFlatArrowUp: { code: "accidentalQuarterToneFlatArrowUp", parenRightPaddingAdjustment: -1 },
+  accidentalFlatArrowDown: { code: "accidentalThreeQuarterTonesFlatArrowDown", parenRightPaddingAdjustment: -1 },
+  accidentalNaturalArrowUp: { code: "accidentalQuarterToneSharpNaturalArrowUp", parenRightPaddingAdjustment: -1 },
+  accidentalNaturalArrowDown: { code: "accidentalQuarterToneFlatNaturalArrowDown", parenRightPaddingAdjustment: -1 },
+  accidentalDoubleSharpArrowUp: { code: "accidentalFiveQuarterTonesSharpArrowUp", parenRightPaddingAdjustment: -1 },
+  accidentalDoubleSharpArrowDown: { code: "accidentalThreeQuarterTonesSharpArrowDown", parenRightPaddingAdjustment: -1 },
+  accidentalDoubleFlatArrowUp: { code: "accidentalThreeQuarterTonesFlatArrowUp", parenRightPaddingAdjustment: -1 },
+  accidentalDoubleFlatArrowDown: { code: "accidentalFiveQuarterTonesFlatArrowDown", parenRightPaddingAdjustment: -1 },
 };
 
 // Helps determine the layout of accidentals.
