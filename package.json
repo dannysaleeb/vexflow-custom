@@ -54,7 +54,7 @@
       "import": "./build/esm/entry/vexflow-font-custom.js"
     }
   },
-  "main": "./build/cjs/vexflow.js",
+  "main": "./build/cjs/vexflow-debug.js",
   "browser": "./build/cjs/vexflow.js",
   "module": "./build/esm/entry/vexflow.js",
   "types": "./build/types/entry/vexflow.d.ts",
